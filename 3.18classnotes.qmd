@@ -1,0 +1,16 @@
+---
+title: "Classnotes3.18"
+format: html
+embed-resources: true
+---
+
+```{r}
+#| setup: false
+#| message: false
+library(tidyverse)
+```
+
+
+
+
+
